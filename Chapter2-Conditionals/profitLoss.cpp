@@ -11,7 +11,7 @@ int main(){
         cout<<"Profit of Rupees "<<sp-cp<<endl;
         cout<<"Profit of "<<(sp-cp)/cp*100<<" %";
     }
-    if(sp=cp){
+    else if(sp=cp){
         cout<<"No Profit or Loss incured.";
     }
     else{
