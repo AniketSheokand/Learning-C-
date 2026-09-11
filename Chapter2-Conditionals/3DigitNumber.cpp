@@ -6,9 +6,9 @@ int main(){
     cout<<"Enter Your Number: ";
     cin>>x;
     if(x>99 && x<1000){
-        cout<<"Three digit number.";
+        cout<<"Three digit number";
     }
     else{
-        cout<<"Not a Three Digit Number.";
+        cout<<"Not a Three Digit Number";
     }
 }
