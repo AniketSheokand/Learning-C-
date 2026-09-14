@@ -5,9 +5,9 @@ int main(){
     cout<<"Enter Your number: ";
     cin>>x;
     if (x%2==0){
-        cout<<"The provided number is Even";
+        cout<<"The provided number is Even.";
     }
     else{
-        cout<<"The provided number is Odd";
+        cout<<"The provided number is Odd.";
     } 
 }
