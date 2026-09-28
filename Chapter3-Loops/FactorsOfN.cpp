@@ -14,3 +14,18 @@ int main(){
     }
     cout<<"are the Factors of "<<n<<".";
 }
+
+//--------------------2nd Method---------------------------
+
+// int main(){
+//     int n, x, i = 1;
+//     cout<<"Enter Your Number: ";
+//     cin>>n;
+//     while(i<=n/2){
+//         if(n%i==0){
+//             cout<<i<<" ";
+//         }
+//     i++;
+//     }
+//     cout<<"are the factors of "<<n;
+// }
