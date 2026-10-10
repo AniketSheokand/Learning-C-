@@ -9,7 +9,7 @@ int main(){
     cin>>b;
     for(i=1;i<=l;i++){
         for(j=1;j<=b;j++){
-            cout<<i<<"  ";
+            cout<<char(64+j)<<"  ";        // Just replace "j" with "i" to Invert the rectangle.
         }
         cout<<endl; 
     }

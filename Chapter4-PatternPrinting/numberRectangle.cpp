@@ -9,7 +9,7 @@ int main(){
     cin>>b;
     for(i=1;i<=l;i++){
         for(j=1;j<=b;j++){
-            cout<<i<<"  ";
+            cout<<j<<"  ";
         }
         cout<<endl; 
     }
